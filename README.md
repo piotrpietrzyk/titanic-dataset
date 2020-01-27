@@ -1,1 +1,2 @@
-# titanic-dataset
+# Titanic dataset
+Titanic passenger data analysis
